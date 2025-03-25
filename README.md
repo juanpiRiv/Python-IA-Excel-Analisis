@@ -1,4 +1,5 @@
 # Python-IA-Excel-Analisis
+https://automatetheboringstuff.com/#toc
 Test
  script.py
 📂 Introduce la ruta del archivo Excel: H:\Sistema Account\Uso contable\Exportaciones\Exportaciones Ventas Detalladas.xlsx
